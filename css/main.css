@@ -191,3 +191,13 @@ html,body{
         background: #000;
     }
 }
+
+.faixas-pretas ul {
+  column-count: 4; /* número de colunas */
+  column-gap: 30px; /* espaço entre colunas */
+  list-style-type: disc;
+  padding-left: 0;
+}
+.faixas-pretas li {
+  margin-bottom: 8px;
+}
